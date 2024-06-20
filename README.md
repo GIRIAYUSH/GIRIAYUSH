@@ -1,35 +1,31 @@
-### Hi there, I'm Ayush! 👋
+### Hello World, I'm Ayush! 👨‍💻
 
-🤖 **Passionate AI & ML Enthusiast | Innovator | Technophile**
+🚀 **AI Enthusiast | Deep Learning Practitioner | Tech Innovator**
 
-Welcome to my GitHub! I’m deeply involved in exploring the realms of **Artificial Intelligence** and **Machine Learning**, focusing on:
+I explore the cutting-edge of technology, with a focus on:
 - **Machine Learning** 🧠
-- **Deep Learning** 🔍
+- **Deep Learning** 🤖
 - **Computer Vision** 📸
 - **Natural Language Processing (NLP)** 📝
-- **MLOps** ⚙️
+- **MLOps** 🛠️
 - **Generative AI** 🎨
 
-🚀 **My work includes:**
-- Developing cutting-edge AI models.
-- Innovating solutions that leverage **Computer Vision and NLP** to solve real-world problems.
-- Building robust systems using **MLOps** practices.
+🔥 **What I'm up to:**
+- Crafting intelligent systems that not only perform tasks but also think.
+- Innovating with AI to solve complex challenges in unique ways.
+- Pushing the boundaries of AI ethics and sustainable practices.
 
-🌱 **Currently Learning:**
-- Advanced topics in **Generative AI** and **Reinforcement Learning**.
-- Ethical AI and sustainable AI practices.
+🎓 **Learning Journey:**
+- Diving deeper into **Generative AI ** and **ML-OPS**.
+- Experimenting with **Neural Network Interpretability** and **Federated Learning**.
 
-💡 **I'm interested in:**
-- Collaborating on projects that challenge the status quo.
-- Sharing knowledge and building community.
+🌐 **Connect with me:**
+- ![LinkedIn Badge](https://www.linkedin.com/in/ayush-giri-193691227/)
 
-📫 **Reach out to me:**
-- ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)
-- ![Twitter Badge](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)
-
-👀 **Visitor Count:** ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=GIRIAYUSH.GIRIAYUSH)
-
----
-
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GIRIAYUSH&show_icons=true&theme=radical)
-
+🔗 **Weekly Development Breakdown:**
+<!--START_SECTION:waka-->
+```text
+Python and ML  12 hrs 5 mins   ████████████████████░░░░░   80.3 %
+Research Paper 1 hr 50 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.2 %
+Documentation  40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   4.5 %
+Hugging Face   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   2.3 %
