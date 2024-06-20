@@ -19,9 +19,6 @@ I explore the cutting-edge of technology, with a focus on:
 - Diving deeper into **Generative AI ** and **ML-OPS**.
 - Experimenting with **Neural Network Interpretability** and **Federated Learning**.
 
-🌐 **Connect with me:**
-- ![LinkedIn Badge](https://www.linkedin.com/in/ayush-giri-193691227/)
-
 🔗 **Weekly Development Breakdown:**
 <!--START_SECTION:waka-->
 ```text
